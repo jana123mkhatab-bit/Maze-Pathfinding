@@ -82,7 +82,7 @@ cmake --build . --config Release
 ## 🛠️ Technical Implementation
 
 ### Custom Data Structures
-To demonstrate a deep understanding of memory management and algorithm complexity, this project implements custom container classes from scratch instead of relying on the STL[cite: 1]:
+To demonstrate a deep understanding of memory management and algorithm complexity, this project implements custom container classes from scratch instead of relying on the STL:
 *   **`MyVector<T>`**: A dynamic array with automatic resizing and bounds checking[cite: 1].
 *   **`MyPriorityQueue<T>`**: A binary min-heap implementation for efficient node selection in Dijkstra and A*[cite: 1].
 
