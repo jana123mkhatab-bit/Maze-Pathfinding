@@ -1,4 +1,3 @@
-Based on the technical details provided in your project files (referenced as **MAZEFINALLL.zip**)[cite: 1], I have refined your README to be more professional, visually structured for GitHub, and technically descriptive.
 
 ---
 
@@ -107,10 +106,3 @@ Typical performance characteristics on a 15x15 maze:
 | **Bucket** | Optimal | Similar to Dijkstra | Highly Optimized |
 
 ---
-
-## 👤 Author
-**Jana**
-*Computer Science Student & Software Developer*
-
----
-*This project was developed as a technical demonstration of pathfinding algorithms and custom data structure implementation in C++ with Qt6.*</T></T>
