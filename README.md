@@ -101,8 +101,8 @@ Typical performance characteristics on a 15x15 maze:
 
 | Algorithm | Path Cost | Nodes Expanded | Time (ms) |
 | :--- | :--- | :--- | :--- |
-| **Dijkstra** | Optimal | Most | Moderate |
-| **A\*** | Optimal | Fewest | Fast |
-| **Bucket** | Optimal | Similar to Dijkstra | Highly Optimized |
+| **Dijkstra** | Optimal | Most | Fast |
+| **A\*** | Optimal | Fewest | Very Fast |
+| **Bucket** | Optimal | Similar to Dijkstra | Moderate |
 
 ---
