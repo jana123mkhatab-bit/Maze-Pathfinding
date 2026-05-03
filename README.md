@@ -14,7 +14,7 @@ A comprehensive C++/Qt application for visualizing and comparing different pathf
 ### Core Interface
 The application features a three-panel layout showing all algorithms side-by-side for immediate visual comparison.
 <p align="center">
-  <img src="screenshots/main_interface.png" width="90%" alt="Maze Algorithm Comparison Main Interface">
+  <img src="main_interface.png" width="90%" alt="Maze Algorithm Comparison Main Interface">
 </p>
 
 ---
